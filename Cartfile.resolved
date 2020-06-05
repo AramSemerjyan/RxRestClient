@@ -1,0 +1,3 @@
+github "Alamofire/Alamofire" "5.2.1"
+github "ReactiveX/RxSwift" "5.1.1"
+github "RxSwiftCommunity/RxAlamofire" "v5.3.1"
